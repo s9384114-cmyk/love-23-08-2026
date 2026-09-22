@@ -1,14 +1,14 @@
 import { AppConfig } from '../types';
 
 export const DEFAULT_CONFIG: AppConfig = {
-  recipientName: 'My Love',
-  senderName: 'Yours Forever',
+  recipientName: 'moon',
+  senderName: 'self moon',
   // Romantic couple mirror selfie with love vibes
-  mainPhoto: 'https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=1000&auto=format&fit=crop',
+  mainPhoto: 'https://i.ibb.co/zhgns8p5/Red-Maroon-Aesthetic.jpg',
   polaroidText: 'Happy Birthday ❤️',
   passcode: '1234',
   cakeHeading: 'Swipe to Cut the Cake! 🎂',
-  cakeCelebrationText: 'Happy Birthday, My Love! 💖',
+  cakeCelebrationText: 'Happy Birthday, moon! 💖',
   letterTitle: 'Happy Birthday My Love ✨',
   letterGreeting: 'Happiest birthday to the love of my life! 🌸',
   letterBody: [
@@ -60,7 +60,7 @@ export const DEFAULT_CONFIG: AppConfig = {
     {
       id: 'photo-4',
       // Cute couple hands together with heart
-      url: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=1000&auto=format&fit=crop',
+      url: 'https://i.ibb.co/zhgns8p5/Red-Maroon-Aesthetic.jpg',
       caption: 'Little moments that become forever memories ☕',
       date: 'Coffee & Us',
       rotation: 5,
@@ -72,7 +72,7 @@ export const DEFAULT_CONFIG: AppConfig = {
     {
       id: 'photo-5',
       // Romantic sweet couple warm hug & forehead touch
-      url: 'https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?q=80&w=1000&auto=format&fit=crop',
+      url: 'https://i.ibb.co/zhgns8p5/Red-Maroon-Aesthetic.jpg',
       caption: 'Together is my favorite place to be 💕',
       date: 'Just Us Two',
       rotation: -2,
@@ -84,7 +84,7 @@ export const DEFAULT_CONFIG: AppConfig = {
     {
       id: 'photo-6',
       // Sweet couple laughing warmly together
-      url: 'https://images.unsplash.com/photo-1543807535-eceef0bc6599?q=80&w=1000&auto=format&fit=crop',
+      url: ''https://i.ibb.co/zhgns8p5/Red-Maroon-Aesthetic.jpg',
       caption: 'You make every ordinary moment feel magical 🌸',
       date: 'Sweet Moments',
       rotation: 7,
@@ -96,7 +96,7 @@ export const DEFAULT_CONFIG: AppConfig = {
     {
       id: 'photo-7',
       // Romantic couple cuddle at sunset
-      url: 'https://images.unsplash.com/photo-1474552226712-ac0f0961a954?q=80&w=1000&auto=format&fit=crop',
+      url: ''https://i.ibb.co/zhgns8p5/Red-Maroon-Aesthetic.jpg',
       caption: 'Here is to a lifetime of adventures together 🚀',
       date: 'Forever & Always',
       rotation: -4,
